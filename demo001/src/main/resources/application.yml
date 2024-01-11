@@ -1,0 +1,12 @@
+server:
+  port: 8085
+  servlet:
+    context-path: /start
+
+email:
+  user: 1767455093@qq.com
+  password: 134808134..
+  host: smtp.qq.com
+  auth: true
+
+
